@@ -1,0 +1,11 @@
+@media (min-width: 960px) {
+    .VPContent {
+        height: 0 !important;
+    }
+
+    .VPPage,
+    .VPPage > div,
+    .VPPage > div > div {
+        height: 100% !important;
+    }
+}
