@@ -7,7 +7,7 @@
     <div class="card-container">
       <div class="card-item">
         <h2>📚 沉淀</h2>
-        <p>博观而约取，厚积而薄发。</p>
+        <p>宝剑锋从磨砺出，梅花香自苦寒来。</p>
       </div>
       <div class="card-item">
         <h2>🎯 分享</h2>
@@ -15,7 +15,7 @@
       </div>
       <div class="card-item">
         <h2>💻 成长</h2>
-        <p>宝剑锋从磨砺出，梅花香自苦寒来。</p>
+        <p>不经一番寒彻骨，怎得梅花扑鼻香。</p>
       </div>
       <div class="card-item">
         <h2>💡 学习</h2>
