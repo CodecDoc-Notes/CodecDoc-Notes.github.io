@@ -6,7 +6,7 @@ import {groupIconMdPlugin, groupIconVitePlugin} from 'vitepress-plugin-group-ico
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-    title: "Codec-Note",
+    title: "CodecDoc-Notes",
     description: "A VitePress Site",
     srcDir: 'note',
     outDir: 'dist',
@@ -25,7 +25,6 @@ export default defineConfig({
         plugins: [groupIconVitePlugin()]
     },
 
-    // base: '/codec-note/',
     themeConfig: {
         search: {
             provider: "local",
@@ -63,7 +62,7 @@ export default defineConfig({
         sidebar,
 
         socialLinks: [
-            {icon: 'github', link: 'https://github.com/vuejs/vitepress'}
+            {icon: 'github', link: 'https://github.com/CodecDoc-Notes/CodecDoc-Notes.github.io'}
         ],
 
         docFooter: {

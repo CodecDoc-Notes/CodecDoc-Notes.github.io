@@ -1,7 +1,7 @@
 <template>
   <div class="page-container">
     <img class="image" src="/avatar.svg" alt="avatar">
-    <span class="title">Codec-Note</span>
+    <span class="title">CodecDoc-Notes</span>
     <span class="description">Programming Notes</span>
     <span class="tagline">🔥 学如逆水行舟，不进则退！</span>
     <div class="card-container">

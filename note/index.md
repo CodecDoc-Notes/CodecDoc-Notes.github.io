@@ -2,7 +2,7 @@
 layout: page
 
 hero:
-  name: "Codec-Note"
+  name: "CodecDoc-Notes"
   text: "Programming Notes"
   image:
     src: /avatar.svg
